@@ -1,4 +1,4 @@
 public class User {
 private int user_age;
-private String user_name;
+private String user_email;
 }
